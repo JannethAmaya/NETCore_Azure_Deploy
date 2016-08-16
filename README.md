@@ -50,34 +50,41 @@ Selecciona la opcion 'Start free' en [Azure Start Free] (https://azure.microsoft
 ---
 
 ##Crear una aplicacion .NET Core
+
 1. Crear un folder
 ```sh
 mkdir folderName
 cd folderName
 ```
+
 2. Consultar las opciones de templates disponibles
 ```sh
 dotnet new -t –h
 ```
+
 3. Generar los archivos del proyecto para un template de WebApp
 ```sh
 dotnet new -t web
 ```
+
 4. Restore de los paquetes
 ```sh
 dotnet restore
 ```
-5. Compilar el código*
+
+5. Compilar el código
 ```sh
 dotnet build
 ```
+
 6. Correr la aplicacion localmente
 ```sh
 dotnet run
 ```
+
 7. Ir al sitio local, http://localhost:5000, debes ver algo similar a la sigueinte imagen
 
-![Alt text](/localhost.png?raw=true "localhost view")
+![Alt text](/localhost.png?raw=true "localhost")
 
 ---
 
