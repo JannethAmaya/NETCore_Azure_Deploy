@@ -78,7 +78,7 @@ dotnet run
 7. Ir al sitio local
 http://localhost:5000
   Debes ver algo similar a la sigueinte imagen:
-![Alt text](/NETCore_Azure_Deploy/localhost.png?raw=true "localhost view")
+![Alt text](/localhost.png?raw=true "localhost view")
 
 ##Deploy .NET Core App con 
 1. Crear una nueva WebApp en Azure
