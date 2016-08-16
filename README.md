@@ -16,7 +16,7 @@ Para poder utilizar .NET Core, primero necesitamos la ultima version de OpenSSL.
 ~$ brew install openssl
 ~$ ln -s /usr/local/opt/openssl/lib/libcrypto.1.0.0.dylib /usr/local/lib/
 ~$ ln -s /usr/local/opt/openssl/lib/libssl.1.0.0.dylib /usr/local/lib/
-```sh
+```
 
 Instalar .NET Core SDK
 La mejor manera de instalar .NET Core en macOS is descargando el [instalador oficial] (https://go.microsoft.com/fwlink/?LinkID=809124)
