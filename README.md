@@ -10,7 +10,8 @@ Para instalar Git ir a [git downloads](https://git-scm.com/downloads)
 
 ##Instalar .NET Core
 Instalar pre-requisitos
-Para poder utilizar .NET Core, primero necesitamos la ultima version de OpenSSL. La manera mas facil de obtenerlo es desde [Homebrew] (http://brew.sh/) Despues de instalar brew, hacer lo siguiente:
+Para poder utilizar .NET Core, primero necesitamos la ultima version de OpenSSL.  
+La manera mas facil de obtenerlo es desde [Homebrew] (http://brew.sh/) Despues de instalar brew, hacer lo siguiente:
 
 ```sh
 ~$ brew update
@@ -20,9 +21,9 @@ Para poder utilizar .NET Core, primero necesitamos la ultima version de OpenSSL.
 ```
 
 Instalar .NET Core SDK
-La mejor manera de instalar .NET Core en macOS is descargando el [instalador oficial] (https://go.microsoft.com/fwlink/?LinkID=809124)
-Este instalador instalara los tools y los pondra en tu PATH para que puedan ejecutar .NET desde tu consola.
-Nota. Si tienes algun problema con la instalacion en macOS, consultar la pagina de [problemas conocidos] (https://github.com/dotnet/core/blob/master/cli/known-issues.md)
+La mejor manera de instalar .NET Core en macOS is descargando el [instalador oficial] (https://go.microsoft.com/fwlink/?LinkID=809124)  
+Este instalador instalara los tools y los pondra en tu PATH para que puedan ejecutar .NET desde tu consola.  
+Nota. Si tienes algun problema con la instalacion en macOS, consultar la pagina de [problemas conocidos] (https://github.com/dotnet/core/blob/master/cli/known-issues.md)  
 
 Para verificar la instalacion exitosa puedes usar el siguiente comando en tu terminal
 ```sh
@@ -41,8 +42,8 @@ Para verificar la instalacion exitosa puedes usar el siguiente comando en tu ter
 
 
 ##Instalar un editor de texto
-Visual Studio Code corre en macOS y tiene soporte completo para .NET Core
-Puedes descargarlo en Visual Studio Code <https://code.visualstudio.com/> gratis e instalar la [extension para C#] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) si deseas tener una mejor experiencia.
+Visual Studio Code corre en macOS y tiene soporte completo para .NET Core  
+Puedes descargarlo en Visual Studio Code <https://code.visualstudio.com/> gratis e instalar la [extension para C#]   (https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) si deseas tener una mejor experiencia.  
 
 ##Crear cuenta de Azure
 Selecciona la opcion 'Start free' en [Azure Start Free] (https://azure.microsoft.com/en-us/free/)
@@ -99,6 +100,6 @@ dotnet run
 ---
 ##Referencias adicionales:
 
-Para mas ejemplos visita .NET Core en [GitHub] (https://github.com/dotnet/core/)
-Consulta la [Documentacion de .NET] (http://docs.microsoft.com/dotnet) para aprender mas acerca de .NET Core
-Participa en nuestra [comunidad] (https://dotnet.github.io/support)
+Para mas ejemplos visita .NET Core en [GitHub] (https://github.com/dotnet/core/)  
+Consulta la [Documentacion de .NET] (http://docs.microsoft.com/dotnet) para aprender mas acerca de .NET Core  
+Participa en nuestra [comunidad] (https://dotnet.github.io/support)  
