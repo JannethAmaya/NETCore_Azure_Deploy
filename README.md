@@ -105,7 +105,7 @@ Luego de elegir crear, veras una opcion de 'Manage in Azure Portal'
 
 En la seccion ![Deployment Source](/deploymentsource.png?raw=true "Deployment Source") 
 En la seccion de 'Setup' ve a 'Choose Source' y elige 'Local Git Repository'  
-![Local Git Repository](/localgitreposotory.png?raw=true "Local Git Repository") 
+![Local Git Repository](/localgitrepository.png?raw=true "Local Git Repository") 
 Si es la primera vez que lo configras te pedira tus credenciales
 
 #### Copiar Git URL para la WebApp desde el portal de Azure
