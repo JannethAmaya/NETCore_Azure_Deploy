@@ -24,7 +24,9 @@ Este instalador instalara los tools y los pondra en tu PATH para que puedan ejec
 Nota. Si tienes algun problema con la instalacion en macOS, consultar la pagina de [problemas conocidos] (https://github.com/dotnet/core/blob/master/cli/known-issues.md)
 
 Para verificar la instalacion exitosa puedes usar el siguiente comando en tu terminal
+```sh
 ~$ dotnet --version
+```
 
 [.NET Framework Downloads] (https://www.microsoft.com/net/download#core)
 *Windows https://www.microsoft.com/net/core#windows
