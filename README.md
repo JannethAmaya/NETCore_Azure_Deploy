@@ -75,9 +75,7 @@ dotnet build
 ```sh
 dotnet run
 ```
-7. Ir al sitio local
-http://localhost:5000
-Debes ver algo similar a la sigueinte imagen:
+7. Ir al sitio local, http://localhost:5000, debes ver algo similar a la sigueinte imagen
 
 ![Alt text](/localhost.png?raw=true "localhost view")
 
