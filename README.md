@@ -1,5 +1,5 @@
 #DEPLOY de una aplicacion .NET Core con Azure
-Esta es una guia rapida de como hacer el deploy de una aplicacion .NET CORE en Mac y hacer su deploy con Azure, aun cuando se incluye la creacion de una aplicacion simple como ejemplo este workshop no se enfoca en la creacion de la aplicacion .NET CORE ni en los detalles de su funcionamiento, para detalles de la creacion de una aplicacion .NET CORE consulte el siguiente repositorio <>
+Esta es una guia rapida de como hacer el deploy de una aplicacion .NET CORE en Mac y hacer su deploy con Azure, aun cuando se incluye la creacion de una aplicacion simple como ejemplo este workshop no se enfoca en la creacion de la aplicacion .NET CORE ni en los detalles de su funcionamiento, para detalles de la creacion de una aplicacion .NET CORE consulte el siguiente repositorio
 
 
 Antes de comenzar necesitas...
