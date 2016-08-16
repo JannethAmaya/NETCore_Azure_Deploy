@@ -7,7 +7,7 @@ Antes de comenzar necesitas
 Configuraremos nuestro 'Continuous Deployment' con Git por lo que es necesario tenerlo instalado
 Para instalar Git ir a [git downloads](https://git-scm.com/downloads)
 
-**Instalar .NET Core**
+##Instalar .NET Core
 Instalar pre-requisitos
 Para poder utilizar .NET Core, primero necesitamos la ultima version de OpenSSL. La manera mas facil de obtenerlo es desde [Homebrew] (http://brew.sh/) Despues de instalar brew, hacer lo siguiente:
 ~$ brew update
@@ -34,18 +34,18 @@ Linux CentOS, Oracle Linux https://www.microsoft.com/net/core#centos
 Linux openSUSE https://www.microsoft.com/net/core#opensuse
 
 
-**Instalar un editor de texto**
+##Instalar un editor de texto
 Visual Studio Code corre en macOS y tiene soporte completo para .NET Core
 Puedes descargarlo en Visual Studio Code <https://code.visualstudio.com/> gratis e instalar la [extension para C#] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) si deseas tener una mejor experiencia.
 
-**Crear cuenta de Azure**
+##Crear cuenta de Azure
 Selecciona la opcion 'Start free' en [Azure Start Free] (https://azure.microsoft.com/en-us/free/)
 
 
 
-#Crear una aplicacion .NET Core
+##Crear una aplicacion .NET Core
 
-#Deploy .NET Core App con 
+##Deploy .NET Core App con 
 
 
 
