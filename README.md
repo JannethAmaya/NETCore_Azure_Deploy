@@ -5,7 +5,7 @@ Esta es una guia rapida de como hacer el deploy de una aplicacion .NET CORE en M
 Antes de comenzar necesitas
 **Instalar Git**
 Configuraremos nuestro 'Continuous Deployment' con Git por lo que es necesario tenerlo instalado
-Para instalar Git ir a https://git-scm.com/downloads
+Para instalar Git ir a [git downloads](https://git-scm.com/downloads)
 
 **Instalar .NET Core**
 Instalar pre-requisitos
@@ -16,14 +16,14 @@ Para poder utilizar .NET Core, primero necesitamos la ultima version de OpenSSL.
 ~$ ln -s /usr/local/opt/openssl/lib/libssl.1.0.0.dylib /usr/local/lib/
 
 Instalar .NET Core SDK
-La mejor manera de instalar .NET Core en macOS is descargando el instalador oficial <https://go.microsoft.com/fwlink/?LinkID=809124> 
+La mejor manera de instalar .NET Core en macOS is descargando el [instalador oficial] (https://go.microsoft.com/fwlink/?LinkID=809124)
 Este instalador instalara los tools y los pondra en tu PATH para que puedan ejecutar .NET desde tu consola.
-Nota. Si tienes algun problema con la instalacion en macOS, consultar la pagina de problemas conocidos <https://github.com/dotnet/core/blob/master/cli/known-issues.md>
+Nota. Si tienes algun problema con la instalacion en macOS, consultar la pagina de [problemas conocidos] (https://github.com/dotnet/core/blob/master/cli/known-issues.md)
 
 Para verificar la instalacion exitosa puedes usar el siguiente comando en tu terminal
 ~$ dotnet --version
 
-.NET Framework Downloads https://www.microsoft.com/net/download#core
+[.NET Framework Downloads] (https://www.microsoft.com/net/download#core)
 Windows https://www.microsoft.com/net/core#windows
 Docker https://www.microsoft.com/net/core#docker
 Linux RHEL https://www.microsoft.com/net/core#redhat
@@ -36,10 +36,10 @@ Linux openSUSE https://www.microsoft.com/net/core#opensuse
 
 **Instalar un editor de texto**
 Visual Studio Code corre en macOS y tiene soporte completo para .NET Core
-Puedes descargarlo en Visual Studio Code <https://code.visualstudio.com/> gratis e instalar la extension para C# <https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp> si deseas tener una mejor experiencia.
+Puedes descargarlo en Visual Studio Code <https://code.visualstudio.com/> gratis e instalar la [extension para C#] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) si deseas tener una mejor experiencia.
 
 **Crear cuenta de Azure**
-Selecciona la opcion 'Start free' en https://azure.microsoft.com/en-us/free/
+Selecciona la opcion 'Start free' en [Azure Start Free] (https://azure.microsoft.com/en-us/free/)
 
 
 
@@ -50,6 +50,6 @@ Selecciona la opcion 'Start free' en https://azure.microsoft.com/en-us/free/
 
 
 
-Para mas ejemplos visita .NET Core en GitHub <https://github.com/dotnet/core/>
-Consulta la Documentacion de .NET para aprender mas acerca de .NET Core <http://docs.microsoft.com/dotnet>
-Participa en nuestra comunidad <https://dotnet.github.io/support>
+Para mas ejemplos visita .NET Core en [GitHub] (https://github.com/dotnet/core/)
+Consulta la [Documentacion de .NET] (http://docs.microsoft.com/dotnet) para aprender mas acerca de .NET Core
+Participa en nuestra [comunidad] (https://dotnet.github.io/support)
