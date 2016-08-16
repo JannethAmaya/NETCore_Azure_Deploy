@@ -28,7 +28,7 @@ Para verificar la instalacion exitosa puedes usar el siguiente comando en tu ter
 ~$ dotnet --version
 ```
 
-[.NET Framework Downloads] (https://www.microsoft.com/net/download#core)
+[.NET Framework Downloads] (https://www.microsoft.com/net/download#core):
 *Windows https://www.microsoft.com/net/core#windows
 *Docker https://www.microsoft.com/net/core#docker
 *Linux RHEL https://www.microsoft.com/net/core#redhat
