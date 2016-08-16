@@ -84,7 +84,7 @@ dotnet run
 
 7. Ir al sitio local, http://localhost:5000, debes ver algo similar a la sigueinte imagen
 
-![Alt text](/localhost.png?raw=true "localhost")
+![localhost](/localhost.png?raw=true "localhost")
 
 ---
 
