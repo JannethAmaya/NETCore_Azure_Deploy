@@ -9,7 +9,7 @@ Para instalar Git ir a https://git-scm.com/downloads
 
 **Instalar .NET Core**
 Instalar pre-requisitos
-Para poder utilizar .NET Core, primero necesitamos la ultima version de OpenSSL. La manera mas facil de obtenerlo es desde Homebrew <http://brew.sh/> Despues de instalar brew, hacer lo siguiente:
+Para poder utilizar .NET Core, primero necesitamos la ultima version de OpenSSL. La manera mas facil de obtenerlo es desde [Homebrew] (http://brew.sh/) Despues de instalar brew, hacer lo siguiente:
 ~$ brew update
 ~$ brew install openssl
 ~$ ln -s /usr/local/opt/openssl/lib/libcrypto.1.0.0.dylib /usr/local/lib/
