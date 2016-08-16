@@ -51,50 +51,50 @@ Selecciona la opcion 'Start free' en [Azure Start Free] (https://azure.microsoft
 
 ##Crear una aplicacion .NET Core
 
-1. Crear un folder
+#### Crear un folder
 ```sh
 mkdir folderName
 cd folderName
 ```
 
-2. Consultar las opciones de templates disponibles
+#### Consultar las opciones de templates disponibles
 ```sh
 dotnet new -t –h
 ```
 
-3. Generar los archivos del proyecto para un template de WebApp
+#### Generar los archivos del proyecto para un template de WebApp
 ```sh
 dotnet new -t web
 ```
 
-4. Restore de los paquetes
+#### Restore de los paquetes
 ```sh
 dotnet restore
 ```
 
-5. Compilar el código
+#### Compilar el código
 ```sh
 dotnet build
 ```
 
-6. Correr la aplicacion localmente
+#### Correr la aplicacion localmente
 ```sh
 dotnet run
 ```
 
-7. Ir al sitio local, http://localhost:5000, debes ver algo similar a la sigueinte imagen
+#### Ir al sitio local, http://localhost:5000, debes ver algo similar a la sigueinte imagen
 
 ![localhost](/localhost.png?raw=true "localhost")
 
 ---
 
 ##Deploy .NET Core App con 
-1. Crear una nueva WebApp en Azure
-2. En el portal de Azure, configurar 'Continuous deployment' con Git
-3. Copiar Git URL para la WebApp desde el portal de Azure
-4. Agregar un remoto con la Git URL, desde la terminal
-5. Push a master para hacer el deploy
-6. Ir al sitio actualizado
+#### Crear una nueva WebApp en Azure
+#### En el portal de Azure, configurar 'Continuous deployment' con Git
+#### Copiar Git URL para la WebApp desde el portal de Azure
+#### Agregar un remoto con la Git URL, desde la terminal
+#### Push a master para hacer el deploy
+#### Ir al sitio actualizado
 
 ---
 ##Referencias adicionales:
