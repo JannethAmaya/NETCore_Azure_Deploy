@@ -3,7 +3,7 @@ Esta es una guia rapida de como hacer el deploy de una aplicacion .NET CORE en M
 
 
 Antes de comenzar necesitas
-**Instalar Git**
+##Instalar Git
 Configuraremos nuestro 'Continuous Deployment' con Git por lo que es necesario tenerlo instalado
 Para instalar Git ir a [git downloads](https://git-scm.com/downloads)
 
