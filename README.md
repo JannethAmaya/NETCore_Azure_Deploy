@@ -91,8 +91,28 @@ dotnet run
 
 ##Deploy .NET Core App con 
 #### Crear una nueva WebApp en Azure
+[https://tryappservice.azure.com/](https://tryappservice.azure.com/)
+
+Cuando te pida seleccionar un tipo elige Web App
+![webapp](/webapp.png?raw=true "webapp")
+
+Cuando te pida seleccionar un template elige ASP.NET Core 1, preferencialmente configura el lenguage con C#
+![ASP .NET Core 1](/aspnetcore1.png?raw=true "ASP .NET Core 1")
+
 #### En el portal de Azure, configurar 'Continuous deployment' con Git
+Luego de elegir crear, veras una opcion de 'Manage in Azure Portal'
+![Mange Azure](/msnsgeazure.png?raw=true "Manage Azure")
+
+En la seccion de Deployment Source ![Deployment Source](/deploymentsource.png?raw=true "Deployment Source") 
+En la seccion de 'Setup' ve a 'Choose Source' y elige 'Local Git Repository'
+![Local Git Repository](/localgitreposotiry.png?raw=true "Local Git Repository") 
+Si es la primera vez que lo configras te pedira tus credenciales
+
 #### Copiar Git URL para la WebApp desde el portal de Azure
+Lo encontraras en la seccion de overview bajo el tag de 'Git Clone URL'
+![Git URL](/giturl.png?raw=true "git URL")
+
+
 #### Agregar un remoto con la Git URL, desde la terminal
 #### Push a master para hacer el deploy
 #### Ir al sitio actualizado
