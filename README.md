@@ -114,8 +114,19 @@ Lo encontraras en la seccion de overview bajo el tag de 'Git Clone URL'
 
 
 #### Agregar un remoto con la Git URL, desde la terminal
+
+```sh
+git remote add remoteName GitURL
+```
+
 #### Push a master para hacer el deploy
+
+```sh
+git push remoteName master
+```
+
 #### Ir al sitio actualizado
+Puedes navegar a la URL del sitio o desde el portal de Azure elegir 'Browse'
 
 ---
 ##Referencias adicionales:
