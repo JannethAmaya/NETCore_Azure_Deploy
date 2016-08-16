@@ -29,14 +29,14 @@ Para verificar la instalacion exitosa puedes usar el siguiente comando en tu ter
 ```
 
 [.NET Framework Downloads] (https://www.microsoft.com/net/download#core):
-*Windows https://www.microsoft.com/net/core#windows
-*Docker https://www.microsoft.com/net/core#docker
-*Linux RHEL https://www.microsoft.com/net/core#redhat
-*Linux Ubuntu, Linux Mint https://www.microsoft.com/net/core#ubuntu
-*Linux Debian https://www.microsoft.com/net/core#debian
-*Linux Fedora https://www.microsoft.com/net/core#fedora
-*Linux CentOS, Oracle Linux https://www.microsoft.com/net/core#centos
-*Linux openSUSE https://www.microsoft.com/net/core#opensuse
+* Windows https://www.microsoft.com/net/core#windows
+* Docker https://www.microsoft.com/net/core#docker
+* Linux RHEL https://www.microsoft.com/net/core#redhat
+* Linux Ubuntu, Linux Mint https://www.microsoft.com/net/core#ubuntu
+* Linux Debian https://www.microsoft.com/net/core#debian
+* Linux Fedora https://www.microsoft.com/net/core#fedora
+* Linux CentOS, Oracle Linux https://www.microsoft.com/net/core#centos
+* Linux openSUSE https://www.microsoft.com/net/core#opensuse
 
 
 ##Instalar un editor de texto
