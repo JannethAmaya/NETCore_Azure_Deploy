@@ -103,7 +103,7 @@ Cuando te pida seleccionar un template elige ASP.NET Core 1, preferencialmente c
 Luego de elegir crear, veras una opcion de 'Manage in Azure Portal'  
 ![Mange Azure](/manageazure.png?raw=true "Manage Azure")
 
-En la seccion de Deployment Source ![Deployment Source](/deploymentsource.png?raw=true "Deployment Source") 
+En la seccion ![Deployment Source](/deploymentsource.png?raw=true "Deployment Source") 
 En la seccion de 'Setup' ve a 'Choose Source' y elige 'Local Git Repository'  
 ![Local Git Repository](/localgitreposotory.png?raw=true "Local Git Repository") 
 Si es la primera vez que lo configras te pedira tus credenciales
