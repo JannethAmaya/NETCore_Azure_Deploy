@@ -1,8 +1,9 @@
 #DEPLOY de una aplicacion .NET Core con Azure
 Esta es una guia rapida de como hacer el deploy de una aplicacion .NET CORE en Mac y hacer su deploy con Azure, aun cuando se incluye la creacion de una aplicacion simple como ejemplo este workshop no se enfoca en la creacion de la aplicacion .NET CORE ni en los detalles de su funcionamiento, para detalles de la creacion de una aplicacion .NET CORE consulte el siguiente repositorio
 
+---
+Antes de comenzar necesitas:
 
-Antes de comenzar necesitas
 ##Instalar Git
 Configuraremos nuestro 'Continuous Deployment' con Git por lo que es necesario tenerlo instalado
 Para instalar Git ir a [git downloads](https://git-scm.com/downloads)
@@ -46,14 +47,15 @@ Puedes descargarlo en Visual Studio Code <https://code.visualstudio.com/> gratis
 ##Crear cuenta de Azure
 Selecciona la opcion 'Start free' en [Azure Start Free] (https://azure.microsoft.com/en-us/free/)
 
-
+---
 
 ##Crear una aplicacion .NET Core
 
 ##Deploy .NET Core App con 
 
 
-
+---
+##Referencias adicionales:
 
 Para mas ejemplos visita .NET Core en [GitHub] (https://github.com/dotnet/core/)
 Consulta la [Documentacion de .NET] (http://docs.microsoft.com/dotnet) para aprender mas acerca de .NET Core
